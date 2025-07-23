@@ -85,12 +85,12 @@ object tests extends Module {
     def config: T[PathRef] = T { PathRef(os.pwd / "config.json") }
 
     // TODO: add config as input to elaborate
+    def mainClass = Some("tests.elaborate.Main")
+
     def elaborate = T {
-      // class path for `moduleDeps` is only a directory, not a jar, which breaks the cache.
-      // so we need to manually add the class files of `moduleDeps` here.
       upstreamCompileOutput()
       mill.modules.Jvm.runLocal(
-        finalMainClass(),
+        mainClass().get,
         runClasspath().map(_.path),
         Seq(
           "--dir", T.dest.toString,
