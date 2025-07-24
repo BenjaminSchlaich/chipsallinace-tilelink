@@ -113,8 +113,6 @@ object tests extends Module {
       os.proc("firtool",
         elaborate.chirrtl().path,
         s"--annotation-file=${elaborate.chiselAnno().path}",
-        "--disable-infer-rw",
-        "--dedup",
         "-O=debug",
         "--split-verilog",
         "--preserve-values=named",
