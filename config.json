@@ -1,0 +1,76 @@
+{
+  "generator": "org.chipsalliance.tilelink.xbar.TLCrossBar",
+  "parameter": {
+    "arbitrationPolicy": "org.chipsalliance.tilelink.xbar.TLArbiterPolicy.RoundRobin",
+    "masters": [
+      {
+        "linkParameter": {
+          "addressWidth": 32,
+          "sourceWidth": 2,
+          "sinkWidth": 2,
+          "dataWidth": 64,
+          "sizeWidth": 4,
+          "hasBCEChannels": true
+        },
+        "adVisibility": [
+          "??"
+        ],
+        "bceVisibility": [
+          "??"
+        ],
+        "srcIdRange": {
+          "start": 0,
+          "end": 1
+        }
+      }
+    ],
+    "slaves": [
+      {
+        "linkParameter": {
+          "addressWidth": 32,
+          "sourceWidth": 2,
+          "sinkWidth": 2,
+          "dataWidth": 64,
+          "sizeWidth": 4,
+          "hasBCEChannels": true
+        },
+        "adVisibility": [
+          "??"
+        ],
+        "bceVisibility": [
+          "??"
+        ],
+        "sinkIdRange": {
+          "start": 0,
+          "end": 1
+        },
+        "addressRange": [
+          "1000000000000000????????????????"
+        ]
+      },
+      {
+        "linkParameter": {
+          "addressWidth": 32,
+          "sourceWidth": 2,
+          "sinkWidth": 2,
+          "dataWidth": 64,
+          "sizeWidth": 4,
+          "hasBCEChannels": true
+        },
+        "adVisibility": [
+          "??"
+        ],
+        "bceVisibility": [
+          "??"
+        ],
+        "sinkIdRange": {
+          "start": 2,
+          "end": 3
+        },
+        "addressRange": [
+          "1000000000000001????????????????"
+        ]
+      }
+    ]
+  }
+}
