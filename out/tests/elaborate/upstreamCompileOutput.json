@@ -1,0 +1,26 @@
+{
+    "value": [
+        {
+            "analysisFile": "/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/tilelink/compile.dest/zinc",
+            "classes": "ref:849ee49d:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/tilelink/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/chisel3/build/chisel3CrossModule/compile.dest/zinc",
+            "classes": "ref:b8421e89:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/chisel3/build/chisel3CrossModule/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/firrtl/build/firrtlCrossModule/compile.dest/zinc",
+            "classes": "ref:d14801e9:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/firrtl/build/firrtlCrossModule/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/chisel3/build/chisel3CrossModule/macros/compile.dest/zinc",
+            "classes": "ref:7e73587c:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/chisel3/build/chisel3CrossModule/macros/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/chisel3/build/chisel3CrossModule/core/compile.dest/zinc",
+            "classes": "ref:c0c5f531:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/out/foreign-modules/dependencies/chisel3/build/chisel3CrossModule/core/compile.dest/classes"
+        }
+    ],
+    "valueHash": 1684332178,
+    "inputsHash": 1323596589
+}

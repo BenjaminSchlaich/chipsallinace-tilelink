@@ -1,0 +1,12 @@
+{
+    "value": [
+        "qref:e761310d:/Users/benjaminschlaich/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.10/scala-compiler-2.13.10.jar",
+        "qref:4baeb789:/Users/benjaminschlaich/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.10/scala-reflect-2.13.10.jar",
+        "qref:a94bfc28:/Users/benjaminschlaich/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar",
+        "qref:c3fede0e:/Users/benjaminschlaich/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.12/java-diff-utils-4.12.jar",
+        "qref:ad06b5c9:/Users/benjaminschlaich/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.21.0/jline-3.21.0.jar",
+        "qref:c30391bd:/Users/benjaminschlaich/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar"
+    ],
+    "valueHash": -1830216041,
+    "inputsHash": -838658967
+}

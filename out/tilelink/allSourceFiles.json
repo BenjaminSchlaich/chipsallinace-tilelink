@@ -1,0 +1,18 @@
+{
+    "value": [
+        "ref:3ed22ba2:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/bundle/TLLink.scala",
+        "ref:29cec797:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/bundle/TLChannelParameter.scala",
+        "ref:0bc08f63:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/bundle/NoTLCException.scala",
+        "ref:e7a65362:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/bundle/TLChannel.scala",
+        "ref:1b59b464:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/bundle/MessageTypes.scala",
+        "ref:4594ea26:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/bundle/TLLinkParameter.scala",
+        "ref:35fc1f8d:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/utils/OH1.scala",
+        "ref:684d5ced:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/utils/Serializers.scala",
+        "ref:bde45d82:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/xbar/TLIdRange.scala",
+        "ref:bdff3637:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/xbar/TLCrossBar.scala",
+        "ref:5f785a0b:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/xbar/TLArbiter.scala",
+        "ref:2acdc34d:/Users/benjaminschlaich/Library/Mobile Documents/com~apple~CloudDocs/Uni Material/Bachelor Thesis/Scala/tilelink/tilelink/src/xbar/TLCrossBarParameters.scala"
+    ],
+    "valueHash": 1970011873,
+    "inputsHash": 2073012670
+}
